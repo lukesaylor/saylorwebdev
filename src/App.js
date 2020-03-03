@@ -4,7 +4,7 @@ import './App.css';
 import Navigation from './Components/Navigation';
 import Home from './Components/Home.js';
 
-import {BrowserRouter as Router, Route, NavLink} from 'react-router-dom';
+import {HashRouter as Router, Route, NavLink} from 'react-router-dom';
 import About from './Components/About';
 import Portfolio from './Components/Portfolio';
 import Skills from './Components/Skills';
