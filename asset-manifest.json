@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/portfoliosite/static/css/main.a414553a.chunk.css",
+    "main.js": "/portfoliosite/static/js/main.08fd98db.chunk.js",
+    "main.js.map": "/portfoliosite/static/js/main.08fd98db.chunk.js.map",
+    "runtime-main.js": "/portfoliosite/static/js/runtime-main.4bb42195.js",
+    "runtime-main.js.map": "/portfoliosite/static/js/runtime-main.4bb42195.js.map",
+    "static/js/2.4245c217.chunk.js": "/portfoliosite/static/js/2.4245c217.chunk.js",
+    "static/js/2.4245c217.chunk.js.map": "/portfoliosite/static/js/2.4245c217.chunk.js.map",
+    "index.html": "/portfoliosite/index.html",
+    "precache-manifest.9d0df68ae6d2f2d6ba045bc70ca97a0b.js": "/portfoliosite/precache-manifest.9d0df68ae6d2f2d6ba045bc70ca97a0b.js",
+    "service-worker.js": "/portfoliosite/service-worker.js",
+    "static/css/main.a414553a.chunk.css.map": "/portfoliosite/static/css/main.a414553a.chunk.css.map",
+    "static/js/2.4245c217.chunk.js.LICENSE.txt": "/portfoliosite/static/js/2.4245c217.chunk.js.LICENSE.txt",
+    "static/media/about.png": "/portfoliosite/static/media/about.396571a5.png",
+    "static/media/aboutheader.png": "/portfoliosite/static/media/aboutheader.35c0822f.png",
+    "static/media/App.css": "/portfoliosite/static/media/bg.e5c685e3.png",
+    "static/media/bootstrap-plain.svg": "/portfoliosite/static/media/bootstrap-plain.c4ce29f3.svg",
+    "static/media/contact.png": "/portfoliosite/static/media/contact.4f0a8953.png",
+    "static/media/contactheader.png": "/portfoliosite/static/media/contactheader.840cba7f.png",
+    "static/media/css3-plain.svg": "/portfoliosite/static/media/css3-plain.c02c2a9a.svg",
+    "static/media/html5-plain.svg": "/portfoliosite/static/media/html5-plain.2fd6cc98.svg",
+    "static/media/illustrator-plain.svg": "/portfoliosite/static/media/illustrator-plain.175cfa63.svg",
+    "static/media/javascript-plain.svg": "/portfoliosite/static/media/javascript-plain.0154328f.svg",
+    "static/media/logo.png": "/portfoliosite/static/media/logo.164d2e54.png",
+    "static/media/nodejs-plain.svg": "/portfoliosite/static/media/nodejs-plain.8f85d265.svg",
+    "static/media/photoshop-plain.svg": "/portfoliosite/static/media/photoshop-plain.a799052f.svg",
+    "static/media/portfolio.png": "/portfoliosite/static/media/portfolio.76e2126f.png",
+    "static/media/portfolioheader.png": "/portfoliosite/static/media/portfolioheader.90a39155.png",
+    "static/media/react-original.svg": "/portfoliosite/static/media/react-original.e9f3d01c.svg",
+    "static/media/skills.png": "/portfoliosite/static/media/skills.e2a72d50.png",
+    "static/media/skillsheader.png": "/portfoliosite/static/media/skillsheader.770ee085.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bb42195.js",
+    "static/js/2.4245c217.chunk.js",
+    "static/css/main.a414553a.chunk.css",
+    "static/js/main.08fd98db.chunk.js"
+  ]
+}
