@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2bd4137e487c558a7eca3edbcd715e3d",
+    "revision": "34e5e17d23d1745280066b4489dcd656",
     "url": "/saylorwebdev/index.html"
   },
   {
-    "revision": "cec5fc51d6988b721782",
+    "revision": "8ea128bb9969f697d94c",
     "url": "/saylorwebdev/static/css/main.431c92bb.chunk.css"
   },
   {
-    "revision": "c1f038a18613dd43b829",
-    "url": "/saylorwebdev/static/js/2.4245c217.chunk.js"
+    "revision": "fc659d763c0e58c25871",
+    "url": "/saylorwebdev/static/js/2.b4af2b60.chunk.js"
   },
   {
     "revision": "f231859d6585c4cd5f80c344783ed269",
-    "url": "/saylorwebdev/static/js/2.4245c217.chunk.js.LICENSE.txt"
+    "url": "/saylorwebdev/static/js/2.b4af2b60.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cec5fc51d6988b721782",
-    "url": "/saylorwebdev/static/js/main.bb539c14.chunk.js"
+    "revision": "8ea128bb9969f697d94c",
+    "url": "/saylorwebdev/static/js/main.5394dbff.chunk.js"
   },
   {
     "revision": "455a8ab236f2baecd0b2",
