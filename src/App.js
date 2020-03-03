@@ -77,20 +77,20 @@ function App() {
     
       <Router>
         <Navigation/> 
-        <NavLink to="/"><img className="Homeicon" src={Homeicon} alt="home icon"/></NavLink>
+        <NavLink to="saylorwebdev/"><img className="Homeicon" src={Homeicon} alt="home icon"/></NavLink>
         <Route path="/" exact strict>
             <Home/>
         </Route>
-        <Route path="/About">
+        <Route path="saylorwebdev/About">
             <About/>
         </Route>
-        <Route path="/Portfolio">
+        <Route path="saylorwebdev/Portfolio">
             <Portfolio/>
         </Route>
-        <Route path="/Skills">
+        <Route path="saylorwebdev/Skills">
             <Skills />
         </Route>
-        <Route path="/Contact">
+        <Route path="saylorwebdev/Contact">
             <Contact />
         </Route>
       </Router>
