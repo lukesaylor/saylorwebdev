@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4371e9d51330b1fd20772fe6d45e2034",
+    "revision": "2bd4137e487c558a7eca3edbcd715e3d",
     "url": "/saylorwebdev/index.html"
   },
   {
-    "revision": "2896b2bc0d1ec2ef3511",
+    "revision": "cec5fc51d6988b721782",
     "url": "/saylorwebdev/static/css/main.431c92bb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/saylorwebdev/static/js/2.4245c217.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2896b2bc0d1ec2ef3511",
-    "url": "/saylorwebdev/static/js/main.c078e016.chunk.js"
+    "revision": "cec5fc51d6988b721782",
+    "url": "/saylorwebdev/static/js/main.bb539c14.chunk.js"
   },
   {
     "revision": "455a8ab236f2baecd0b2",
