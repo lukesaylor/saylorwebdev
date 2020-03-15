@@ -7,6 +7,7 @@ function About() {
   return (
     <div>
        <img className="header" src={aboutheader} alt="about"/>
+       <a href="http://www.google.com">google</a>
     </div>
   );
 }
